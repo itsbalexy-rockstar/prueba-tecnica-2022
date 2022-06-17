@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Prueba técnica Frontend BRM
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esta es una prueba técnica realizada por la compañía BRM para el cargo de Frontend Developer
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🛠 Habilidades
+- Javascript
+- React
+- Tailwind
+- Animate
+- Font awesome
+- HTML y CSS
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usado por
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este proyecto será usado en efectos de:
 
-### `npm test`
+- BRM
+- Mi persona
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Paleta de colores usada
+Fueron tomadas de la paleta de colores de la librería [Tailwind](https://tailwindcss.com/)
 
-### `npm run build`
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Cyan-500 | ![#06B6D4](https://via.placeholder.com/10/06B6D4?text=+) #06B6D4 |
+| Orange | ![#F97316](https://via.placeholder.com/10/F97316?text=+) #F97316 |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Instalación
 
-### `npm run eject`
+Una vez descargardo el proyecto zip, ábrelo en una términal de código, instala las dependencias y por último disfruta del contenido
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+  cd proyecto_descargado
+  npm i  
+  npm start
+```
+    
+## ¿Cómo usar?
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Inicialmente no se verá ningún contacto, por lo que usted en el título de **Crear un nuevoo contacto** deberá desplegar el formulario para ingresar uno nuevo, una vez usted de en el botón de enviar, aparecerá el contacto en la parte inferior, organizado mediante una tabla.
+- Por otro lado, en la sección de **Contactos agregados** usted podrá filtrar su búsqueda, una vez tenga demasiados contactos, se puede filtrar por nombre y número.
+- Y finalmente, en la sección de cada contacto tendrá dos opciones de botones, una para editar la información, que deberá actualizar en la sección del formulario que deberá desplegar dando click en **Editando un contacto**, el recopila la información e inmediatamente se verá reflejado en su contacto en la parte inferior. Finalmente, también podrá hacer uso del botón eliminar para deshacer algún contacto existente
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Screenshots
 
-## Learn More
+![App Screenshot](https://i.ibb.co/hmDfbRS/miagenda.png)
+![App Screenshot](https://i.ibb.co/sbSpnd6/Sin-t-tulo.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Autor
+- Brayan Alexander Yepes Clavijo 
+- LinkedIn [@brayanyepesc](https://www.linkedin.com/in/brayan-yepesc/)
